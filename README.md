@@ -12,9 +12,9 @@
 
 ### 👋 About Me
 
-I'm a **Software Engineer** building production **LLM inference platforms**, **RAG pipelines**, and **agentic AI systems** on Google Cloud. My expertise spans machine learning engineering, data engineering, and backend systems—from architecting low-latency model-serving infrastructure to designing multi-agent workflows with LangChain, Apache Spark, and Kafka.
+I'm a **Software Engineer** building production **LLM inference platforms**, **RAG pipelines**, and **agentic AI systems** on Google Cloud. My expertise spans machine learning engineering, data en[...]
 
-- 🔭 Currently building **LLM inference platforms & evaluation frameworks** at **Rebecca Everlene Trust Company**
+- 🔭 Built **LLM inference platforms & evaluation frameworks** at **Rebecca Everlene Trust Company** (October 2024 – July 2025)
 - 🛰️ Previously engineered **ETL pipelines for gravitational-wave data** at **NASA's LSpace Program** (LIGO/Virgo)
 - 🎓 **MS in Computer Science**, Illinois Institute of Technology (2022–2024)
 - ⚡ 400+ LeetCode problems solved | Passionate about **competitive programming & system design**
@@ -87,7 +87,7 @@ I'm a **Software Engineer** building production **LLM inference platforms**, **R
 
 **🛡️ LLMOps Red-Teaming & Safety Evaluation Framework**
 
-Automated LLM red-teaming platform using **Constitutional AI** and the **Claude API** — generates 10K+ adversarial test cases per run across 8 safety dimensions, wired into CI/CD. MLflow safety dashboard catches **94% of policy violations** pre-production, cutting rollbacks by **78%**.
+Automated LLM red-teaming platform using **Constitutional AI** and the **Claude API** — generates 10K+ adversarial test cases per run across 8 safety dimensions, wired into CI/CD. MLflow safety dash[...]
 
 **Stack:** Python | Claude API | Constitutional AI | MLflow | FastAPI | Docker | GitHub Actions
 
@@ -95,7 +95,7 @@ Automated LLM red-teaming platform using **Constitutional AI** and the **Claude 
 
 **🌾 AgriIntel — Multimodal Crop Intelligence Platform**
 
-Multimodal RAG system built on **Claude Vision** achieving **94% crop-disease diagnosis accuracy** across 40+ diseases. GCP-powered pipeline with LLM forecasting agent lifted **yield-prediction accuracy by 31%** for agricultural stakeholders.
+Multimodal RAG system built on **Claude Vision** achieving **94% crop-disease diagnosis accuracy** across 40+ diseases. GCP-powered pipeline with LLM forecasting agent lifted **yield-prediction accura[...]
 
 **Stack:** Python | Claude Vision API | Multimodal RAG | LangChain | GCP Pub/Sub | FastAPI
 
@@ -103,7 +103,7 @@ Multimodal RAG system built on **Claude Vision** achieving **94% crop-disease di
 
 **📊 Time-Series Forecasting & Regime Analysis**
 
-Rolling-window regression models for financial time-series under shifting volatility regimes, with residual diagnostics and stability analysis to detect structural breaks. Designed for quantitative finance workflows.
+Rolling-window regression models for financial time-series under shifting volatility regimes, with residual diagnostics and stability analysis to detect structural breaks. Designed for quantitative fi[...]
 
 **Stack:** Python | NumPy | Pandas | scikit-learn | JAX
 
