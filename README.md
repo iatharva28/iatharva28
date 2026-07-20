@@ -18,7 +18,7 @@ I'm a **Software Engineer** building production **LLM inference platforms**, **R
 - 🛰️ Previously engineered **ETL pipelines for gravitational-wave data** at **NASA's LSpace Program** (LIGO/Virgo)
 - 🎓 **MS in Computer Science**, Illinois Institute of Technology (2022–2024)
 - ⚡ 400+ LeetCode problems solved | Passionate about **competitive programming & system design**
-- 🌱 Diving deep into **low-level design patterns** and **quantitative/systematic trading systems**
+- 🌱 Diving deep into **distributed systems** and **quantitative/systematic trading systems**
 - 📫 Reach me at **atharvahonkhambe@gmail.com**
 
 ---
