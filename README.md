@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Atharva Honkhambe
 
-**Software Engineer | AI Infrastructure | Distributed Systems | C++ | Quantitative Systems**
+**Software Engineer | AI Infrastructure | Distributed Systems | Python3 | Quantitative Systems**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharva28)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/iatharva28)
