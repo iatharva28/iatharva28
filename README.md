@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Atharva Honkhambe
+# Hi 👋, I'm Atharva Honkhambe
 
 **Software Engineer | AI Infrastructure | Distributed Systems | C++ | Quantitative Systems**
 
