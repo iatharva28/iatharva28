@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-Software engineer passionate about **AI infrastructure**, **backend systems**, and building **scalable distributed platforms**. I specialize in large language model applications, retrieval-augmented generation (RAG), and AI agents.
+Software engineer passionate about **AI infrastructure**, **backend systems**, and building **scalable distributed platforms**. I specialize in large language model applications, retrieval-augment[...]
 
 - 🔭 **Current:** Software Engineer at Rebecca Everlene Trust Company *(Oct 2024 – Jul 2025)*
 - 🛰️ **Experience:** Built ETL pipelines for NASA L'SPACE (LIGO/Virgo datasets)
@@ -108,14 +108,16 @@ Deep learning and NLP analysis on insurance claims with PCA, statistical modelin
 
 <div align="center">
 
+<!-- Combined GitHub stats: main stats + top languages. Removed the streak stats to avoid unreliable external service. -->
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iatharva28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Streak Stats](https://streak-stats.demolab.com?user=iatharva28&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iatharva28&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iatharva28&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iatharva28&theme=github-dark)
 
 </div>
 
