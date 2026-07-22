@@ -106,7 +106,6 @@ Deep learning and NLP analysis on insurance claims with PCA, statistical modelin
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iatharva28&theme=github-dark)
 
 </div>
 
